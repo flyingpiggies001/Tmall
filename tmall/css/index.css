@@ -1138,6 +1138,12 @@ position: relative;
     height: 47px;
     float: left;
 }
+.modepep{
+    width: 350px;
+    height: 25px;
+    float: left;
+    margin-top: 15px;
+}
 
 .hk-left{
     width: 235px;
